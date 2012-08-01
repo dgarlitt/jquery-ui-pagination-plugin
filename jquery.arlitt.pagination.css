@@ -1,0 +1,10 @@
+.arlitt-pagination {
+	margin: .5em;
+	text-align: right;
+	font-size: .8em;
+}
+
+.arlitt-pagination a, .arlitt-pagination span {
+	padding: 0;
+	text-decoration: none;
+}
